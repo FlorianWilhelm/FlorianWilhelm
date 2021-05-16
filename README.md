@@ -1,4 +1,4 @@
-## Hi there, I'm Florian Wilhelm
+## Hi there, I'm Florian
 
 I am a Data Scientist and Python developer with a strong mathematical background. Always looking to apply mathematics to real-world problems and enthusiastic about everything math.
 
