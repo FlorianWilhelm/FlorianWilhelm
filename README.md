@@ -28,10 +28,12 @@ As Head of Data Science at inovex GmbH, I enjoy working on innovative Data Scien
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=6EA5C6)&nbsp;
 ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy&logoColor=8CAAE6)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)&nbsp;
+![pre-commit](https://img.shields.io/badge/-pre--commit-05122A?style=flat&logo=pre-commit&logoColor=FAB040)&nbsp;
+![Cirrus CI](https://img.shields.io/badge/-Cirus_CI-05122A?style=flat&logo=cirrus-ci&logoColor=4051B5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
