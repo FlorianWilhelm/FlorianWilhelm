@@ -39,6 +39,6 @@ As Head of Data Science at [inovex GmbH](https://www.inovex.de/en/), I enjoy wor
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=7CD68D)&nbsp;
-
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=FFFFFF)&nbsp;
 </details>
 
