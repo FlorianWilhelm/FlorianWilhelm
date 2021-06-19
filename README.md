@@ -30,9 +30,11 @@ As Head of Data Science at [inovex GmbH](https://www.inovex.de/en/), I enjoy wor
 ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy&logoColor=8CAAE6)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
-![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apache-spark&logoColor=E25A1C)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark&logoColor=E25A1C)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)&nbsp;
+![Conda-Forge](https://img.shields.io/badge/-Conda-Forge-05122A?style=flat&logo=conda-forge&logoColor=FFFFFF)&nbsp;
+![PyPI](https://img.shields.io/badge/-PyPI-05122A?style=flat&logo=pypi&logoColor=3775A9)&nbsp;
 ![pre-commit](https://img.shields.io/badge/-pre--commit-05122A?style=flat&logo=pre-commit&logoColor=FAB040)&nbsp;
 ![Cirrus CI](https://img.shields.io/badge/-Cirus_CI-05122A?style=flat&logo=cirrus-ci&logoColor=4051B5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=#F05032)&nbsp;
