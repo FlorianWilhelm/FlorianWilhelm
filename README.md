@@ -41,5 +41,6 @@ As Head of Data Science at [inovex GmbH](https://www.inovex.de/en/), I enjoy wor
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=7CD68D)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=#FCC624)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=FFFFFF)&nbsp;
+![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=overleaf&logoColor=47A141)&nbsp;
 </details>
 
