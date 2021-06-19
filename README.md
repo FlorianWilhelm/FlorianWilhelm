@@ -30,7 +30,7 @@ As Head of Data Science at [inovex GmbH](https://www.inovex.de/en/), I enjoy wor
 ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy&logoColor=8CAAE6)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
-![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=spark&logoColor=E25A1C)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apache-spark&logoColor=E25A1C)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)&nbsp;
 ![pre-commit](https://img.shields.io/badge/-pre--commit-05122A?style=flat&logo=pre-commit&logoColor=FAB040)&nbsp;
