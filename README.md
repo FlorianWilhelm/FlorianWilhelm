@@ -34,13 +34,14 @@ As Head of Data Science at [inovex GmbH](https://www.inovex.de/en/), I enjoy wor
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)&nbsp;
 ![Conda-Forge](https://img.shields.io/badge/-Conda--Forge-05122A?style=flat&logo=conda-forge&logoColor=FFFFFF)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=7CD68D)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter_Lab-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![PyPI](https://img.shields.io/badge/-PyPI-05122A?style=flat&logo=pypi&logoColor=3775A9)&nbsp;
 ![pre-commit](https://img.shields.io/badge/-pre--commit-05122A?style=flat&logo=pre-commit&logoColor=FAB040)&nbsp;
 ![Cirrus CI](https://img.shields.io/badge/-Cirus_CI-05122A?style=flat&logo=cirrus-ci&logoColor=4051B5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=#F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=7CD68D)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=#FCC624)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=#E95420)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=FFFFFF)&nbsp;
