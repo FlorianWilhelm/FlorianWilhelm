@@ -47,7 +47,7 @@ As Head of Data Science at [inovex GmbH](https://www.inovex.de/en/), I enjoy wor
 ![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=overleaf&logoColor=47A141)&nbsp;
 ![tmux](https://img.shields.io/badge/-tmux-05122A?style=flat&logo=tmux&logoColor=1BB91F)&nbsp;
 ![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim&logoColor=019733)&nbsp;
-![VLC](https://img.shields.io/badge/-vlc-05122A?style=flat&logo=vlc&logoColor=FF8800)&nbsp;
+![VLC](https://img.shields.io/badge/-vlc-05122A?style=flat&logo=vlc-video-player&logoColor=FF8800)&nbsp;
 ![Wikipedia](https://img.shields.io/badge/-Wikipedia-05122A?style=flat&logo=wikipedia&logoColor=FFFFFF)&nbsp;
 ![Stack-Overflow](https://img.shields.io/badge/-Stack--Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025)&nbsp;
 </details>
