@@ -24,6 +24,7 @@ As Head of Data Science at [inovex GmbH](https://www.inovex.de/en/), I enjoy wor
 	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>My Stack</b></summary>
 	<br/>
  
+![PyScaffold](https://img.shields.io/badge/-PyScaffold-05122A?style=flat&logo=pyscaffold&logoColor=#005CA0)&nbsp;	
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=6EA5C6)&nbsp;
