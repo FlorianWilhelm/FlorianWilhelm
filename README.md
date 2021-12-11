@@ -16,7 +16,7 @@ As Head of Data Science at [inovex GmbH](https://www.inovex.de/en/), I enjoy wor
   <br/>
   <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=FlorianWilhelm&show_icons=true&count_private=true&theme=dark" width="355"></a><br/>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianWilhelm&layout=compact&theme=dark&hide=HTML,CSS%20notebook" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianWilhelm&layout=compact&theme=dark&hide=HTML,CSS,Jupyter%20notebook" width="350"></a>
    </p>  
 </details>
 
